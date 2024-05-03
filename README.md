@@ -13,6 +13,7 @@ This is a simple web application for managing employee records. It allows users 
 
 ## Technologies Used
 - Spring MVC
+- Spring AOP
 - Thymeleaf
 - Bootstrap
 - MySQL
